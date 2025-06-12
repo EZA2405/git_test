@@ -1,2 +1,2 @@
 # git_test
-Hello Odin!
+Hello Odin! Practice repository to learn Git
